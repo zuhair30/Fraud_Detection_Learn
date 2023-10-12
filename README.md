@@ -1,2 +1,1 @@
-# Fraud_Detection_Learn
-this is to understand the concepts of GIT and GIT HUB on basics of ML model 
+This is Read Me file for Repository Fraud Detection Learn
